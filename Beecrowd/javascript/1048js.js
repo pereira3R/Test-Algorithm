@@ -1,19 +1,20 @@
-var value = require('fs').readFileSync('/dev/stdin', 'utf8').split('\n').map(Float);
-
-if(0 >= value && value <= 400){
-    console.log(`Novo salari: ${(value * 0.15) + value}`);
-    console.log(`Reajuste ganho ${value * 0.15}`);
-    console.log(`Em percentual 15 %`);
-}else if(400.01 >= value && value <= 800){
-    console.log(`Novo salari: ${(value * 0.12) + value}`);
-    console.log(`Reajuste ganho ${value * 0.12}`);
-    console.log(`Em percentual 12 %`);
-}else if(800.01 >= value && value <= 1200){
-    console.log(`Novo salari: ${(value * 0.10) + value}`);
-    console.log(`Reajuste ganho ${value * 0.10}`);
-    console.log(`Em percentual 10 %`);
-}else if(1200.01 >= value && value <= 2000){
-    console.log(`Novo salari: ${(value * 0.07) + value}`);
-    console.log(`Reajuste ganho ${value * 0.07}`);
-    console.log(`Em percentual 7 %`);
+var n = parseFloat(require('fs').readFileSync('/dev/stdin', 'utf8').split('\n').map(Number));
+let percent; 
+if(n <= 400){
+    percent = 15; 
+}else if(n <= 800){
+    percent = 12; 
+}else if(n <= 1200){
+    percent = 10; 
+}else if(n <= 2000){
+    percent = 7;
+}else if(n > 2000){
+    percent = 4; 
 }
+
+var nIncremet = (n * (percent/100)) + n;
+var nAu = (n * (percent/100)); 
+
+console.log(`Novo salario ${nIncrement}`);
+console.log(`Reajuste ganho ${nAu}`);
+console.log(`Em percentual ${percent}`);
