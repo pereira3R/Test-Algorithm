@@ -4,13 +4,9 @@
 
 Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
 
-## Linguagem de Programação Javascript
-
 ### [Javascript](LeetCode/Javascript)
 
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
-
-## Linguagem de Programação C++
 
 ### [C++](LeetCode/c++)
 
