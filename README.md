@@ -8,7 +8,7 @@ Bem-vindo ao meu diretório de exercícios resolvidos! Aqui estão os exercício
 
 ## Linguagem de Programação Javascript
 
-### [Nome da Pasta 1](link_para_pasta_1)
+### [Javascript](LeetCode/Javascript)
 
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
 
