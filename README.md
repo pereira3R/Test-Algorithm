@@ -1,6 +1,6 @@
 # Beecrowd &amp;&amp; LeetCode
 
-# Exercícios Resolvidos
+## Exercícios Resolvidos
 
 Bem-vindo ao meu diretório de exercícios resolvidos! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
 
