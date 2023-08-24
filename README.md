@@ -14,7 +14,7 @@ Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aq
 
 ## Exercícios Resolvidos Beecrowd
 
-Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
+Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma Beecrowd! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
 
 ### [Javascript](Beecrowd/javascript)
 
@@ -40,9 +40,8 @@ Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aq
 
 Aqui estão alguns recursos úteis para continuar aprendendo e praticando:
 
-- [Nome do Recurso 1](link_para_recurso_1)
-- [Nome do Recurso 2](link_para_recurso_2)
-- [Nome do Recurso 3](link_para_recurso_3)
+- [Leetcode](https://leetcode.com/)
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
 
 ---
 
