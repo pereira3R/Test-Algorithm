@@ -20,8 +20,6 @@ Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aq
 
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
 
-## Linguagem de Programação C++
-
 ### [C++](Beecrowd/c++)
 
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
