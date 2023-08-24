@@ -12,17 +12,9 @@ Bem-vindo ao meu diretório de exercícios resolvidos! Aqui estão os exercício
 
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
 
-### [Nome da Pasta 2](link_para_pasta_2)
+## Linguagem de Programação C++
 
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
-
-## Linguagem de Programação Java
-
-### [Nome da Pasta 3](link_para_pasta_3)
-
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
-
-### [Nome da Pasta 4](link_para_pasta_4)
+### [c++](LeetCode/c++)
 
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
 
