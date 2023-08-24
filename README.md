@@ -6,7 +6,7 @@
 
 Bem-vindo ao meu diretório de exercícios resolvidos! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
 
-## Linguagem de Programação 1
+## Linguagem de Programação Javascript
 
 ### [Nome da Pasta 1](link_para_pasta_1)
 
@@ -16,7 +16,7 @@ Bem-vindo ao meu diretório de exercícios resolvidos! Aqui estão os exercício
 
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
 
-## Linguagem de Programação 2
+## Linguagem de Programação Java
 
 ### [Nome da Pasta 3](link_para_pasta_3)
 
