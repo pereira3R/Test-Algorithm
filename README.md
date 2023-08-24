@@ -1,8 +1,8 @@
 # Beecrowd &amp;&amp; LeetCode
 
-## Exercícios Resolvidos
+## Exercícios Resolvidos LeetCode
 
-Bem-vindo ao meu diretório de exercícios resolvidos! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
+Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
 
 ## Linguagem de Programação Javascript
 
@@ -12,7 +12,33 @@ Bem-vindo ao meu diretório de exercícios resolvidos! Aqui estão os exercício
 
 ## Linguagem de Programação C++
 
-### [c++](LeetCode/c++)
+### [C++](LeetCode/c++)
+
+- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+
+## Exercícios Resolvidos Beecrowd
+
+Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
+
+### [Javascript](Beecrowd/javascript)
+
+- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+
+## Linguagem de Programação C++
+
+### [C++](Beecrowd/c++)
+
+- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+
+### [Java](Beecrowd/java)
+
+- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+
+### [Python](Beecrowd/python)
+
+- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+
+### [C](Beecrowd/c)
 
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
 
