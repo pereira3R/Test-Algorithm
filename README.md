@@ -1,6 +1,4 @@
-# Training Algorithm
-
-## Beecrowd &amp;&amp; LeetCode
+# Beecrowd &amp;&amp; LeetCode
 
 # Exercícios Resolvidos
 
