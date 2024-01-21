@@ -6,36 +6,23 @@
 
 Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
 
-### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [JavaScript](LeetCode/Javascript)
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-### [C++](LeetCode/c++)
-
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) [C++](LeetCode/c++)
 
 ## Exercícios Resolvidos Beecrowd
 
 Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma Beecrowd! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
 
-### [Javascript](Beecrowd/javascript)
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-### [C++](Beecrowd/c++)
+### ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
-### [Java](Beecrowd/java)
-
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
-
-### [Python](Beecrowd/python)
-
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
-
-### [C](Beecrowd/c)
-
-- **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
+### ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ## Recursos
 
