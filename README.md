@@ -25,6 +25,7 @@ Welcome to my directory of solved exercises from the Beecrowd platform! Here are
 ### ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ## Contact
+Passionate about technology, an eternal learner.
 
 | Anthony Ricardo Rodrigues Rezende | 
 | --- |
