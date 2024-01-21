@@ -1,7 +1,7 @@
 # Beecrowd &amp;&amp; LeetCode
 
- <img src="./images/leetBee.png" alt="LeetCode && Beecrowd"/> 
-
+<img src="./images/leetBee.png" alt="LeetCode && Beecrowd" width="300"/>
+s
 ## Exercícios Resolvidos LeetCode
 
 Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
