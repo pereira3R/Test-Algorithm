@@ -1,6 +1,6 @@
 # Beecrowd &amp;&amp; LeetCode
 
- <img src="./images/leetBee.png" alt="LeetCode && Beecrowd" width="100"/> 
+ <img src="./images/leetBee.png" alt="LeetCode && Beecrowd"/> 
 
 ## Exercícios Resolvidos LeetCode
 
