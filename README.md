@@ -24,6 +24,16 @@ Welcome to my directory of solved exercises from the Beecrowd platform! Here are
 
 ### ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
+## Contact
+<strong> Project Developer Members: </strong> We are Computer Science students at the Federal University of Mato Grosso - Class of 2022.
+
+| Anthony Ricardo Rodrigues Rezende | 
+| --- |
+| <img src="./imageDevelopers/anthony.jpeg" alt="Anthony's Photo" width="100"/> | 
+
+- **Email:** anthony_rodriguespereira@outlook.com
+- **LinkedIn:** [Anthony's LinkedIn](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/)
+
 ## Resources
 
 Here are some useful resources to continue learning and practicing:
