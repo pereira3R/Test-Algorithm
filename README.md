@@ -6,8 +6,7 @@
 
 Bem-vindo ao meu diretório de exercícios resolvidos da Plataforma LeetCode! Aqui estão os exercícios que resolvi, organizados por linguagem de programação.
 
-### [Javascript](LeetCode/Javascript)
-
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [JavaScript](LeetCode/Javascript)
 - **Descrição**: Uma breve descrição sobre os exercícios resolvidos nesta pasta.
 
 ### [C++](LeetCode/c++)
