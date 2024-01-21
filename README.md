@@ -1,4 +1,4 @@
-# Beecrowd &amp;&amp; LeetCode
+# Training with Beecrowd &amp;&amp; LeetCode
 
 <img src="./images/leetBee.png" alt="LeetCode && Beecrowd" width="1000"/>
 
