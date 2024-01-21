@@ -29,17 +29,19 @@ Welcome to my directory of solved exercises from the Beecrowd platform! Here are
 
 | Anthony Ricardo Rodrigues Rezende | 
 | --- |
-| <img src="./imageDevelopers/anthony.jpeg" alt="Anthony's Photo" width="100"/> | 
+| <img src="./images/anthony.jpeg" alt="Anthony's Photo" width="100"/> | 
 
 - **Email:** anthony_rodriguespereira@outlook.com
 - **LinkedIn:** [Anthony's LinkedIn](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/)
+- **Beecrow:** [Anthony's Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/639361)
+- **LeetCode:** [Anthony's LeetCode](https://leetcode.com/Pereira3RR/)
 
 ## Resources
 
 Here are some useful resources to continue learning and practicing:
 
 - [Leetcode](https://leetcode.com/)
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
+- [Beecrowd](https://www.beecrowd.com.br/)
 
 ---
 
