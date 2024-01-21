@@ -45,5 +45,5 @@ Aqui estão alguns recursos úteis para continuar aprendendo e praticando:
 
 ---
 
-Sinta-se à vontade para explorar os exercícios resolvidos em diferentes linguagens de programação. Mantenha este menu atualizado à medida que você adiciona mais exercícios resolvidos em seu diretório. Bons estudos e práticas!
+Sinta-se à vontade para explorar os exercícios resolvidos em diferentes linguagens de programação.
 
